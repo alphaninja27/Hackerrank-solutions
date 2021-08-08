@@ -1,0 +1,1 @@
+print(round((sum([i*j for i,j in zip(X,W)])/sum(W)),1))
